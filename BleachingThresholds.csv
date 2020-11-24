@@ -1,32 +1,4 @@
-DATE CREATED
-2020-11-25T05:20:21+10:00
 
-ATTRIBUTION
-http://www.aims.gov.au/docs/cc-attribution.html
-
-DISCLAIMER
-http://www.aims.gov.au/docs/disclaimer.html
-
-PRIVACY
-http://www.aims.gov.au/docs/privacy-policy.html
-
-COPYRIGHT
-http://www.aims.gov.au/docs/cc-copyright.html
-
-COMMENT
-"These data are provided by this web service under a Creative Commons License.  Please read the copyright statement and attribute AIMS according to the attribution information above.  All or some data delivered by this service may be provided by a third party and should also be attributed.  The ownership of data will be associated with the deployment information in the data.  If no ownership is supplied, AIMS is the implied owner. "
-
-SENSOR DEFINITIONS
-MEA2173 SDI-12 Smart Temperature Sensor 9
-
-UOM DEFINITIONS
-Degrees Celsius
-
-STATION,Cleveland Bay
-LATITUDE,-19.13866
-STATION,146.899
-
-BLEACH THRESHOLDS
 SUMMER-BEGINNING,TEMPERATURE,THRESHOLD-DAYS,ACTUAL-DAYS
 2015-11-01T00:00:00,30.1,22.8,0
 2015-11-01T00:00:00,30.2,22.0,0
